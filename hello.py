@@ -1,10 +1,11 @@
 # Uncomment the line below and save the file
 # Run the following command from the same directory as hello.py
 #
-# python hello.py
+#python hello.py
 #
 # You should see the output "Hello, World!"
 #
 
 # ***Uncomment the line below***
 print("Hello, World!")
+print("This is assignment 00. I am sorry can I get the full credits for this :( ")
